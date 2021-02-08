@@ -10,14 +10,14 @@ Made by course staff
 
 Game directory:
    Made by me:
-	player class
-	actoritem class
+	player class,
+	actoritem class,
 	city class
 
    Made by partner:
-	staistics class
-	enemy class
-	dialog class
+	staistics class,
+	enemy class,
+	dialog class,
 	mainwindow class
 
    Made by both:
