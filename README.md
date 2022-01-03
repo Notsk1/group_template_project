@@ -29,6 +29,6 @@ UnitTests:
    Made by me:
 	City tests
    
-   MAde by partner:
+   Made by partner:
 	Statistics tests
 	
