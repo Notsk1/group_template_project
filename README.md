@@ -5,10 +5,12 @@ Project template was made by course staff and students needed to implement other
 functionilty to the game. 
 
 Course directory:
+
 Made by course staff
 
 
 Game directory:
+
    Made by me:
 	player class,
 	actoritem class,
@@ -26,6 +28,7 @@ Game directory:
 Some of the classes were inherited from course made classes
 
 UnitTests:
+
    Made by me:
 	City tests
    
